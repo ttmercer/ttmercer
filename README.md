@@ -1,3 +1,8 @@
+<!-- Animated Coding Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+Developer;Game+Development+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
 <h1 align="center">Hey 👋 What's Up? I'm Tapiwa!</h1>
 
 <h3 align="center">A rising developer passionate about Python, game development, and open source</h3>
@@ -6,10 +11,12 @@
 
 <!-- Snake Game -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ttmercer/ttmercer/output/snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
 ###
+
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
@@ -30,6 +37,8 @@
 </div>
 
 ###
+
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tapiwa-chirarwe" target="_blank">
@@ -54,12 +63,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttmercer&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ttmercer&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ttmercer&show_icons=true&theme=radical&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ttmercer&layout=compact&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ttmercer&theme=radical" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttmercer&theme=radical&hide_border=false" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app/?username=ttmercer&theme=radical" height="150" alt="trophy graph"  />
 </div>
 
@@ -67,12 +76,20 @@
 
 ## 🎯 Currently
 
-- 🔭 Working on: **A 2D game**
-- 🌱 Learning: **PyQt6**
-- 👯 Looking to collaborate on: **open source projects**
-- 🤔 Looking for help with: **learning game development**
-- 💬 Ask me about: **Python!!!**
-- ⚡ Fun fact: **I won a hackathon once**
+- 🔭 **Working on:** A 2D game
+- 🌱 **Learning:** PyQt6
+- 👯 **Looking to collaborate on:** Open source projects
+- 🤔 **Looking for help with:** Game development
+- 💬 **Ask me about:** Python!!!
+- ⚡ **Fun fact:** I won a hackathon once
+
+###
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ttmercer&custom_title=Tapiwa's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7C3AED&line=7C3AED&point=7C3AED&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph"/>
+</div>
 
 ###
 
